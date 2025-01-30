@@ -57,9 +57,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedShahulAhmed&theme=radical" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyedShahulAhmed&theme=radical" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedShahulAhmed&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
