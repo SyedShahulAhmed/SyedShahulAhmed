@@ -21,7 +21,7 @@
 </p>
 
 - 🙋‍♂️ Find out more about me at **[My Portfolio](https://shahul.vercel.app/)**.
-- 🔭 Currently working on **Something Exciting**.
+- 🔭 Currently working on **Something new**.
 - 🌱 Learning **Data Structures and Algorithms (DSA)**.
 - 👯 Open for collaborations on **Frontend Projects**.
 - 📫 Reach me via email: **[syedshahul737@gmail.com](mailto:syedshahul737@gmail.com)**.
