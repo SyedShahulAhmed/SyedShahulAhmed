@@ -45,17 +45,22 @@
 </p>
 
 ---
+
 <h2 align="center"><img src="Laptop.gif" width="45"> GitHub Stats </h2>
 <div align="center" width="50%">
-
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedShahulAhmed&theme=radical" alt="Profile Details" width="80%" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedShahulAhmed&theme=radical" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyedShahulAhmed&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- GitHub Streak (Added) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SyedShahulAhmed&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
