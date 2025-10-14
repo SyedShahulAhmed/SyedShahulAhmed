@@ -1,6 +1,6 @@
 <!-- Animated Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=2500&pause=500&color=f72585&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;Exploring+Tech+and+Coding+Daily;Open+to+Collaborations+and+Ideas;React+Enthusiast+⚛️;Let’s+Build+Something+Together!;Turning+Ideas+into+Interfaces;B.Tech+AI+and+DS+Student;Frontend+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3000&pause=500&color=f72585&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Java+DSA+Solver+%7C+Problem+Solver+🧠;MERN+Stack+Developer+%7C+MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node;React+Enthusiast+⚛️;Competitive+Programming+%7C+Algorithm+Lover;Open+for+Projects+%26+Collaborations" alt="Typing SVG" />
 </p>
 
 <!-- Title Section -->
@@ -88,5 +88,6 @@
   🚀 Thanks for visiting my profile! 🌟<br>
   ⭐️ Feel free to star my repos if you find them helpful! ✨💖
 </h3>
+
 
 
