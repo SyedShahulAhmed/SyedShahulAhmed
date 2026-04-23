@@ -20,7 +20,7 @@
   <img src="hero.gif" align="right" width="250" style="border-radius: 15px; margin: 10px;"/>
 </p>
 
-- 🙋‍♂️ Find out more about me at My **[Portfolio](https://shahul.vercel.app/)**.
+- 🙋‍♂️ Find out more about me at My **[Portfolio](https://shahulstudio.vercel.app/)**.
 - 🔭 Currently working on **Something new**.
 - 🌱 Learning **Data Structures and Algorithms (DSA)**.
 - 👯 Open for collaborations on **Frontend Projects**.
