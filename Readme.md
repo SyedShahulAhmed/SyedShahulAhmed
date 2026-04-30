@@ -25,8 +25,7 @@
 - 🌱 Learning **Data Structures and Algorithms (DSA)**.
 - 👯 Open for collaborations on **Frontend Projects**.
 - 📫 Reach me via email: **[syedshahul737@gmail.com](mailto:syedshahul737@gmail.com)**.
-- ⚡ Fun Fact: **I spend most of my free time gaming 🎮**
-
+- ⚡ Fun Fact: **I spend most of my free time gaming 🎮 and reading 📚**
 ---
 
 ### 🛠️ Technologies and Tools I Use
