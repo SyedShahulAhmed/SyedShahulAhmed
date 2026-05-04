@@ -23,7 +23,7 @@
 - 🙋‍♂️ Find out more about me at My **[Portfolio](https://shahulstudio.vercel.app/)**.
 - 🔭 Currently working on **Something new**.
 - 🌱 Learning **Data Structures and Algorithms (DSA)**.
-- 👯 Open for collaborations on **Frontend Projects**.
+- 👯 Open for collaborations on **MERN Stack Projects**.
 - 📫 Reach me via email: **[syedshahul737@gmail.com](mailto:syedshahul737@gmail.com)**.
 - ⚡ Fun Fact: **I spend most of my free time gaming 🎮 and reading 📚**
 ---
