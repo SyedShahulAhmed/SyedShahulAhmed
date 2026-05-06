@@ -21,7 +21,7 @@
 </p>
 
 - 🙋‍♂️ Find out more about me at My **[Portfolio](https://shahulstudio.vercel.app/)**.
-- 🔭 Currently working on **Something new**.
+- 🔭 Currently working on **Something Exciting**.
 - 🌱 Learning **Data Structures and Algorithms (DSA)**.
 - 👯 Open for collaborations on **MERN Stack Projects**.
 - 📫 Reach me via email: **[syedshahul737@gmail.com](mailto:syedshahul737@gmail.com)**.
@@ -35,11 +35,13 @@
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30px"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30px"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30px"/>
 
   <!-- 🧠 State Management + Frontend Tools -->
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="30px"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30px"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30px"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px"/>
 
