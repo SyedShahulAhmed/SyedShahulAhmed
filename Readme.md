@@ -25,7 +25,7 @@
 - 🌱 Learning **Data Structures and Algorithms (DSA)**.
 - 👯 Open for collaborations on **MERN Stack Projects**.
 - 📫 Reach me via email: **[syedshahul737@gmail.com](mailto:syedshahul737@gmail.com)**.
-- ⚡ Fun Fact: **I spend most of my free time gaming 🎮 and reading 📚**
+- ⚡ Fun Fact: **I spend most of my free time gaming 🎮 , reading 📚 and Anime 🃏**
 ---
 
 ### 🛠️ Technologies and Tools I Use
