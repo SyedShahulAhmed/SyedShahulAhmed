@@ -23,7 +23,7 @@
 - 🙋‍♂️ Find out more about me at My **[Portfolio](https://shahulahmed.vercel.app)**.
 - 🔭 Currently working on **Revora**.
 - 🌱 Learning **Data Structures and Algorithms (DSA)**.
-- 👯 Open for collaborations on **MERN Stack Projects**.
+- 👯 Open for collaborations on **Full Stack Projects**.
 - 📫 Reach me via email: **[syedshahul737@gmail.com](mailto:syedshahul737@gmail.com)**.
 - ⚡ Fun Fact: **I spend most of my free time gaming 🎮 , reading 📚 and Anime 🃏**
 ---
