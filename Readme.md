@@ -1,6 +1,6 @@
 <!-- Animated Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3000&pause=500&color=f72585&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Java+DSA+Solver+%7C+Problem+Solver+🧠;MERN+Stack+Developer+%7C+MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node;React+Enthusiast+⚛️;Competitive+Programming+%7C+Algorithm+Lover;Open+for+Projects+%26+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3000&pause=500&color=f72585&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Java+DSA+Solver+%7C+Problem+Solver+🧠;Full+Stack+Developer+%7C+Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;React+Enthusiast+⚛️;Competitive+Programming+%7C+Algorithm+Lover;Open+for+Projects+%26+Collaborations" alt="Typing SVG" />
 </p>
 
 <!-- Title Section -->
